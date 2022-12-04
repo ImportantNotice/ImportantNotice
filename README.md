@@ -2,7 +2,7 @@
 - 👀 I’m interested in analytics, Cloud and AI
 - 🌱 I’m currently learning Python, DevOps and Data Engineering Path@DataCamp
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me AAI.com
+- 📫 How to reach me  - vp@powerbeeeye.com
 
 <!---
 ImportantNotice/ImportantNotice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
