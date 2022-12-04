@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImportantNotice
 - 👀 I’m interested in analytics, Cloud and AI
 - 🌱 I’m currently learning Python, DevOps and Data Engineering Path@DataCamp
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m willing to help you learn SQL, Power BI and Cloud 
 - 📫 How to reach me  - vp@powerbeeeye.com
 
 <!---
